@@ -1,0 +1,42 @@
+.header{
+    background-color: aqua;
+    border: 5px  solid;
+    height: 200px;
+    text-align: center;
+    background-image: url("CSS\ Belajar/mobil.jpg");
+}
+.topmenu{
+    background-color: blue;
+    border: 1px solid;
+    height: 70px;
+    text-align: center;
+}
+.content{
+    background-color: blueviolet;
+    border: 1px solid;
+    height: 500px;
+    float: right;
+    width: 79%;
+    background-image: url("CSS\ Belajar/images.jpg");
+}
+.sidemenu{
+    background-color:red;
+    border: 1px solid;
+    height: 500px;
+    float:left;
+    width: 20%;
+    background-image: url();
+    color:black;
+}
+.footer{
+    background-color: yellow;
+    border: 1px solid;
+    clear: both;
+}
+.wrap{
+    background-color: red;
+    padding: 20px;
+    border: 1px solid;
+    width: 90%;
+    margin: auto;
+}
